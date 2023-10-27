@@ -1,0 +1,22 @@
+.logo {
+    display:flex;
+    justify-content: center;
+    width: ;
+}
+
+.description{
+    display: flex;
+    justify-content: center;
+    background-color:beige;
+    
+}
+
+.title h1{
+    display: flex;
+    justify-content: center;
+}
+
+.title h3{
+    display: flex;
+    justify-content:flex-start
+}
